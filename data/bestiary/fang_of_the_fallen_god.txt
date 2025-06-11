@@ -1,0 +1,76 @@
+LEVEL_RANGE: 65-80
+Ice Bone Parasite,ice_bone_parasite
+    Loot:
+        Frozen Bone Shard
+        Parasitic Ice Crystal
+Deific Bone Fragment,deific_bone_fragment
+    Loot:
+        Divine Bone Dust
+        Faded Holy Essence
+        Blessed Extract
+Decaying Spectre,decaying_spectre
+    Loot:
+        Spectral Residue
+        Decayed Light Essence
+        Ethereal Spice
+Dentin Golem,dentin_golem
+    Loot:
+        Enchanted Tooth Shard
+        Golem's Enamel Core
+        Crystallized enamel
+Glacial Scavenger,glacial_scavenger
+    Loot:
+        Scavenger's Frost Claw
+        Glacial Scrap Metal
+        Preserved Icy Meat
+Frostbitten Collosus,frostbitten_collosus
+    Loot:
+        Colossal Ice Fragment
+        Frostbitten Giant's Blood
+        Frozen Colossus Heart
+Crystaline Leviathan,crystaline_leviathan
+    Loot:
+        Leviathan Crystal Scale
+        Purified Light Essence
+        Crystalline Leviathan Fin
+Core Remnant,core_remnant
+    Loot:
+        Core Energy Crystal
+        Remnant of Divinity
+        Primordial Energy Extract
+Deific Light Elemental,deific_light_elemental
+    Loot:
+        Hands of the Ordained
+        Deific Devourer Sword
+        Divine Light Shard
+        Elemental Purity Essence
+        Luminous Ambrosia
+Deific Light Reaver,deific_light_reaver
+    Loot:
+        Concentrated Divine Wrath
+        Essence of the fallen god
+Deific Light Echo,deific_light_echo
+    Loot:
+        Shroud of Echoing Souls
+        Echo of Creation
+        Resonating Light Crystal
+        Whispering Light Nectar
+Memory Fragment,memory_fragment
+    Loot:
+        Legplates of Celestial Will
+        Crystallized Memory Shard
+        Essence of Forgotten Divinity
+        Mnemonic Elixir
+Deific Blood Clot,deific_blood_clot
+    Loot:
+        Coagulated God Blood
+        Divine Hemoglobin Crystal
+Radiant Path Chosen,radiant_path_chosen
+    Loot:
+        Vestments of the Anointed
+        Exom Blade Of The Radiant path
+        Zal Knife Of The Radiant Path
+        Celestial Harmonic Hoops
+        Radiant Chosen's Blessing
+        Fragment of the Divine Path
+        Elixir of the Gods

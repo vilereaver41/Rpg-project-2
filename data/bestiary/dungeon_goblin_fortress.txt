@@ -1,0 +1,37 @@
+LEVEL_RANGE: 26-35
+Dark Goblin Warrior,dark_goblin_warrior
+  - Rune Dagger
+  - Shadow Ruby Earring
+Dark Goblin Slayer,dark_goblin_slayer
+  - Choker Of Shadows
+Dark Goblin Elite Protector,dark_goblin_elite_protector
+  - Blood Crystal Trinket
+  - Choker Of Shadows
+Blood Demon Flayer,blood_demon_flayer
+  - Living Blood flame
+Blood Demon Drinker,blood_demon_drinker
+  - Vial of demons blood
+  - Blood Choker
+Corrupted Fey Sprite,corrupted_fey_sprite
+  - Celestial Tear drop
+  - Fey Sprite's Talon
+Demon Imp Sorcerer,demon_imp_sorcerer
+  - Vial of demons blood
+  - Blood Crystal Trinket
+Demon Imp Knight,demon_imp_knight
+  - Vial of demons blood
+  - Shadow Ruby Earring
+Dark Servant Shade,dark_servant_shade
+  - Fragment of Shadow
+  - Choker Of Shadows
+Dark Servant Warrior,dark_servant_warrior
+  - Fragment of Shadow
+  - Shadow Ruby Earring
+  - Dark Warrior Brooch
+Dark Servant Evoker,dark_servant_evoker
+  - Choker Of Shadows
+  - Fragment of Shadow
+Goblin King Brinrib,goblin_king_brinrib
+  - NULL
+Dark Goblin King Brinrib,dark_goblin_king_brinrib
+  - Needs Work

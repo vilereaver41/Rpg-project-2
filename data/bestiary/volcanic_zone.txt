@@ -1,0 +1,38 @@
+LEVEL_RANGE: 36-51
+Living Flame Ravager,living_flame_ravager
+  - Molten Defender
+  - Obsidian Shards
+She'ol Professor,she'ol_professor
+  - Fiend's Knife
+  - Lava Eel
+Raging Elemental,raging_elemental
+  - Volcanic Ash
+  - Igneous Crystal
+Flame Seal Warrior,flame_seal_warrior
+  - Blade Of Burning Life
+  - Salamander Scale
+Magma Devourer,magma_devourer
+  - Magma Core
+  - Magma Snail Shell
+Inferno Troll,inferno_troll
+  - Brimstone
+  - Volcanic Ash Mushroom
+  - Inferno Troll Fat
+Lesser Blaze Wyrm,lesser_blaze_wyrm
+  - Dragon's Visage
+  - Storm Slicer
+  - Blaze Scale
+Corrupted Cinder Queen,corrupted_cinder_queen
+  - Scales of the Inferno
+  - Hellflame Ring
+Wyrmblood Golem,wyrmblood_golem
+  - Talons of the Flame
+  - Rapid Slicer
+  - Mantle of Smoldering Embers
+Possessed Lesser Dragon,possessed_lesser_dragon
+  - Lava Pearl
+  - Dragon Scale
+  - Corrupted Dragon Heart
+  - Possessed Spirit Essence
+  - Dragon's Blood
+  - Smoldering Dragon Meat

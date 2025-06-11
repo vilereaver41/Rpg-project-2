@@ -1,0 +1,125 @@
+Swords Level 1-50,Level Range,Source,Rarity,Attack Type,Attack,Defense,M.Attack,M.Defense,Agility,Luck,Max HP,Max MP,Recipe,Extra Increases
+,,,,,,,,,,,,,,
+Sharp Vine Stick,1-3,Dropped,Trash,Physical,3,,,,,,,,,
+Rusty Sword,1-3,Dropped,Trash,Physical,3,,,,,,,,,
+Bark fragment Serrator,4-6,Crafted,Common,Physical,5,,,,,,,,3x Bark Fragments 1x Chomper Tooth 1x Iron Ingot,Crit + 1%
+Iron Sword,7-9,Dropped,Common,Physical,7,1,,,,,,,,Hit + 2%
+Steel Gladius,10-12,Dropped,Common,Physical,9,2,,,,,,,,Eva + 2%
+Right Curve Blade,13-15,Dropped,Uncommon,Physical,12,3,,,,,,,,Hit+ + 2% - Ctr Atk + 2%
+Left Curve Blade,16-18,Dropped,Uncommon,Physical,14,2,,,2,,15,,,Crit Eva + 2%
+Crystal Bark Blade,19-21,Dropped,Uncommon,Physical,16,3,,3,,,,,,Hit + 3%
+Enchanted Steel Gladius,22-24,Crafted,Uncommon,Physical,18,3,3,2,2,,20,,1x Steel Gladius 2x Crystalized Life Fragment 1x Vial of Enchanting Essence,Crit +4% - Mgc Eva + 3%
+Black Steel Falchion,25-27,Dropped,Uncommon,Physical,20,3,,,4,,25,,,Crit + 4% - Eva + 3%
+Blaze Saber,28-30,Dropped,Rare ,Fire,23,4,5,3,,,30,30,,Crit + 5% - Magic Eva + 4% - Burn 50%
+Manslayer,31-33,Crafted,Rare ,Physical,26,2,,,3,,,,1x Black Steel Falchion 2x Vial of demons blood 1x Living Blood flame 1x Shadow Steel Ingot,Hit + 5%
+Runeslayer,34-36,Crafted,Rare ,Physical,24,5,12,,,,35,35,1x Enchanted Steel Gladius 2x Fragment of Shadow 1x Rune Dagger 1x Vial of Enchanting Essence,Eva + 4% - Ctr Atk + 5% - Bleed 30%
+Blade Of Burning Life,37-39,Dropped,Rare ,Fire,28,3,10,,,,40,40,,Atk Spd + 4 - Melt 50%
+Rapid Slicer,40-42,Dropped,Rare ,Wind,30,3,,,8,,,,,Atk Count + 1 - Bleed 50%
+Storm Edge,43-45,Dropped,Rare ,Thunder,32,4,8,3,5,2,25,25,,Crit + 5% - Hit + 4% - Eva + 5% - Confusion 20% - Fear 15%
+Storm Slicer,46-48,Dropped,Rare ,Thunder,34,5,9,3,3,3,40,30,,Crit Eva + 5% - Ctr Atk 9% - Mgc Eva + 5%
+Marigold,49-50,Crafted,Epic,Light,38,,20,10,12,,60,60,1x Storm Slicer 3x Celestial Tear drop 2x Refined Aether Crystal 1x Pure Aether Ingot,Mgc Eva + 7% - Eva + 7% - Hp & Mp Rgn +6% 
+Reality Slicer,50+,Crafted,Epic,Darkness,40,5,15,5,8,,,,1x Runeslayer 2x Crystal core of darkness 1x Vial of demons blood 1x Shadow Steel Ingot,Atk Spd + 4 - Atk Count + 1 - Hit + 7% - Ctr Atk + 7% - Tp Rgn + 6% - Tp Chrg Rt + 25%
+Oscillation,50+,Dropped,Legendary,Nil Element,45,10,25,10,15,15,100,100,,All Stats +6%  Elemental resistance +10% Atk Speed +6 Crit +12%
+,,,,,,,,,,,,,,
+Swords Level 50-80,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Blade of Sheol,55-59,Dropped,Epic,Fire,46,8,12,8,,,80,80,,"Hit Rate +6%, Eva +6%, Mgc Eva +7%, Mgc Reflection +7%, Hellfire 45%"
+Sunrise Bright saber,60-64,Dropped,Epic,Fire,50,10,15,10,,,100,90,,"Hit Rate +7%, Crit +7%, Sunscar 55%"
+Moonlight Line Sword,65-69,Crafted,Epic,Ice,40,10,20,15,15,,90,120,,Moonblight 55%
+Elementa,70+,Crafted,Legendary,Nil Element,75,25,75,25,20,20,200,200,,"All Elemental Damage +15%, All Elemental Resistance +15%, Skill Power +20%, Hp & Mp Regen +10%"
+Tentora,70-74,Dropped,Epic,Nil Element,55,12,15,12,10,10,110,110,,"Hp & Mp Regen +12%, Mgc Reflection +9%, Ctr Atk +9%, Hit Rate +11%, Crit +11%"
+Deific Devourer Sword,75-77,Dropped,Epic,Nil Element,60,15,30,15,12,12,120,120,,"All Stats +5%, Elemental Absorption 10%, Skill Power +15%"
+Evergloom,76-79,Crafted,Epic,Nil Element,65,18,35,18,15,15,130,130,,"Darkness Dmg +20%, Light Resistance +15%, MP Cost -10%"
+Exom Blade Of The Radiant path,80-85,Dropped,Epic,Nil Element,70,20,40,20,18,18,150,150,,"Light Dmg +25%, Darkness Resistance +20%, HP & MP Regen +15%"
+God Heart Sequence Piercer,80+,Crafted,Legendary,Nil Element,80,30,80,30,25,25,250,250,,"Ignore Defense 20%, Mp Cost -15%, Skill Power +25%, All Stats +10%"
+,,,,,,,,,,,,,,
+Swords Level 80-90,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Repetence, Blade Of The Apostle.",83-88,Dropped,Epic,Nil Element,85,25,50,25,20,20,180,180,,"Light/Darkness Dmg +20%, Skill Power +15%, Hp & Mp Regen +12%, Crit +12%"
+Divinity Astral Saber,89-92,Crafted,Epic,Nil Element,90,30,60,30,25,25,200,200,,"All Elemental Dmg +15%, Skill Speed +10%, Mgc Reflection +10%, Eva +10%"
+Cosmic Executioner,90-93,Dropped,Epic,Nil Element,95,35,65,35,30,30,220,220,,"Crit +15%, Hit +15%, Ignore Defense 10%, Atk Count +1"
+,,,,,,,,,,,,,,
+Swords Level 90-100,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Lahat Chereb,90-100,Dropped,Epic,Nil Element,100,40,70,40,35,35,250,250,,"All Stats +8%, Elemental Resistance +15%, Skill Power +20%, Hp & Mp Regen +15%"
+Duskfall Extinguisher Of Light,90-100,Dropped,Legendary,Nil Element,110,45,80,45,40,40,300,300,,"Darkness Dmg +30%, Light Absorption 20%, Skill Power +25%, Atk Spd +10%, Crit +20% Special: Converts Light damage to Darkness and boosts it by 25%"
+Null The Blade of Allspace,100+?,Crafted,Mythical,Nil Element,175,85,165,85,85,75,700,700,,"All Stats +20%, All Elemental Dmg/Resistance +25%, Ignore Defense 30%, Skill Power +50% Special: 10% chance to negate any incoming attack or spell Special: Each attack has a 5% chance to deal damage of a random element"
+,,,,,,,,,,,,,,
+Daggers Level 1-50,Level Range,,Tier,Attack Type,Attack Damage,Defense,M.Attack,M.Defense,Agility,Luck,Max HP,Max MP,,Extra Increases
+,,,,,,,,,,,,,,
+Rusty Knife,1-3,Dropped,Trash,Physical,2,,,,1,,,,,Atk Speed +1
+Skinning Knife,2-5,Dropped,Trash,Physical,2,,,,2,,,,,Crit +1%
+Chomper Tooth Dagger,4-6,Crafted,Common,Physical,4,,,,3,,,,2x Chomper Tooth 1x Iron Ingot,"Crit +2%, Atk Spd +1"
+Decorated Steel Dagger,7-9,Dropped,Common,Physical,5,,,,4,,,,,"Hit +2%, Atk Spd +2"
+Iron Dagger,10-12,Dropped,Common,Physical,7,,,,5,,,,,Atk Spd +2
+Slick Goblins Knife,13-15,Dropped,Common,Physical,8,2,,,6,,,,,Atk Spd +3
+White Bark Jambiya,16-18,Crafted,Common,Physical,9,1,,,7,,,,2x Bark Fragments 1x Iron Dagger,"Eva +2%, Atk Spd +3"
+Chomper Serrated Dagger,19-21,Crafted,Uncommon,Physical,11,,,,8,,,,,"Hit +2%, Crit +3%, Atk Spd +4"
+Ancient Dagger,22-24,Dropped,Uncommon,Physical,13,,,,9,,,,,"Atk +3%, Crit +3%, Atk Spd +4"
+Crystal Bark Dagger,25-27,Crafted,Uncommon,Physical,15,3,3,2,10,,,,1x White Bark Jambiya 2x Crystal Bark 1x Vial of Enchanting Essence,"Hit +6%, Atk Spd +5"
+Rune Dagger,28-30,Dropped,Uncommon,Physical,16,,10,,11,,,10,,"Hit +3%, Atk Spd +5"
+Awakened Rune Dagger,31-36,Crafted,Uncommon,Light,18,,12,6,13,,,35,1x Rune Dagger 2x Celestial Tear drop 1x Vial of Enchanting Essence,"Hit +4%, Mp Rgn +6%, Crit +6%, Atk Spd +6"
+Whash Slayer,34-36,Crafted,Uncommon,Physical,20,4,8,4,14,,20,10,,"Mgc Eva +6%, Crit +7%, Atk Count +1, Atk Spd +6"
+Fey Sprite's Talon,37-39,Dropped,Rare ,Nature,23,5,10,,16,,25,,,"Crit +11%, Eva +11%, Atk Count +1, Atk Spd +7"
+Fiend's Knife,40-42,Dropped,Rare ,Darkness,25,,15,,17,,10,30,,"Hit +6%, Crit +8%, Atk Spd +7, Fear 30%"
+Nature Slicer,43-45,Crafted,Rare ,Nature,27,3,18,,18,,,,1x Crystal Bark Dagger 2x Crystalized Life Fragment 1x Crystal core of nature 1x Venom Sac,"Nature Dmg +15%, Crit +9%, Atk Spd +8, Poison 40%"
+Ritual Dagger,46-48,Dropped,Rare ,Darkness,29,,20,,19,2,-20,,,"Hit +9%, HP Rgn +11%, Atk Count +1, Atk Spd +8, Bleed 50%"
+Emperors Life Shard,49-55,Crafted,Epic,Nature,32,8,22,8,22,,60,,1x Nature Slicer 1x Wash Emperor's root 2x Elder Wash Amber 2x Crystal Core of nature,"Hit +11%, Hp Rgn +15%, Mgc Eva +11%, Eva +11%, Atk Spd +9, Crit +10%"
+Haruspex,50+,Crafted,Legendary,Nil Element,38,15,38,15,30,,100,100,,"Crit +15%, Atk Spd +10, Atk Count +1, Skill Speed +10%"
+,,,,,,,,,,,,,,
+Daggers Level 50-80,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Dancing Dagger,50-55,Crafted,Epic,Physical,35,10,25,10,35,5,,,,"Hit +12%, Atk Count +2, Crit +22%, Tp Rgn +12%, Atk Spd +11 Special: 10% chance to evade and counter-attack"
+Aethers Whisper,55-60,Crafted,Epic,Ice,38,12,30,15,38,5,-20,120,,"Mgc Eva +12%, Mp Rgn +22%, Crit +13%, Atk Spd +12 Special: Ice damage +20%, 15% chance to freeze target"
+Hell Slicer,60-65,Dropped,Epic,Fire,42,14,32,14,40,,80,,,"Hit +13%, Atk Spd +13, Crit +14%, Fire damage +20% Special: 25% chance to inflict Burn status"
+Lunar Shard,65-70,Crafted,Epic,Ice,45,,35,18,43,,,150,,"Hit +14%, Mp Rgn +18%, Atk Spd +14, Darkness damage +20% Special: Attacks ignore 15% of enemy defense during night battles"
+Meridan Flayer,70-75,Crafted,Epic,Darkness,48,16,38,20,45,-5,,-50,,"Hit Rate +16%, Crit +23%, Atk Spd +15 Special: Each critical hit restores 2% of max HP"
+Demon Lord's Assassinator,70-80,Dropped,Epic,Fire,52,18,40,18,48,7,100,-100,,"Atk Count +2, Atk Spd +16, Crit +18%, Darkness damage +25% Special: 20% chance to instantly kill non-boss enemies below 10% HP"
+Catalyst,80+,Crafted,Legendary,Nil Element,60,25,60,25,60,10,150,150,,"Hit +20%, Crit +25%, Atk Spd +18, Skill Speed +15%, All Elemental Damage +15% Special: Each attack has a 10% chance to trigger an additional elemental effect"
+,,,,,,,,,,,,,,
+Daggers Level 80-90,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Fallen Gods Lament,80-84,Crafted,Epic,Nil Element,65,22,50,22,65,10,100,,,"Hit +18%, Crit +26%, Atk Spd +17, Light/Darkness damage +22% Special: Attacks have a 15% chance to inflict random status ailments"
+Blade From Beyond,83-86,Dropped,Epic,Nil Element,68,24,55,24,68,5,50,50,,"Hit +19%, Crit +27%, Atk Spd +18, Void damage +20% Special: 10% chance to phase through enemy defenses"
+Axiom Depths Dagger,85-93,Crafted,Epic,Nil Element,72,26,60,26,72,8,200,-150,,"Hit +20%, Crit +28%, Atk Spd +19, Water damage +25% Special: Underwater combat bonuses: Atk Spd +2, Eva +15%"
+Zal Knife Of The Radiant Path,86-92,Dropped,Epic,Nil Element,75,28,65,28,75,15,50,200,,"Hit +21%, Crit +29%, Atk Spd +20, Light damage +25% Special: Light-based attacks have a 20% chance to blind enemies"
+Skyshard,90+,Crafted,Legendary,Nil Element,85,35,85,35,85,30,300,300,,"Hit +25%, Crit +30%, Atk Spd +22, Atk Count +2, Wind damage +30% Special: 15% chance to increase evasion on hit by 25%"
+,,,,,,,,,,,,,,
+Daggers Level 90-100,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+She'ols Insanity,90-97,Dropped,Epic,Nil Element,90,35,75,35,90,25,200,150,,"Hit +23%, Crit +32%, Atk Spd +23, Darkness/Fire damage +30% Special: Each attack has a 10% chance to inflict Confusion or Fear Special: Attacks ignore 20% of enemy defense against Darkness-weak foes"
+Solaris Blade From Another Age,90-100+,Dropped,Legendary,Nil Element,100,45,100,45,100,50,300,300,,"Hit +28%, Crit +35%, Atk Spd +25, Atk Count +2, Light damage +35% Special: Light-based attacks pierce 25% of enemy resistance Special: 20% chance to apply ""Radiant Mark"" on hit, increasing damage taken by 10% (stackable up to 5 times)"
+Grandclaw Of Parnoxian,90-100+,Crafted,Legendary,Nil Element,105,50,105,50,105,55,350,350,,"Hit +30%, Crit +38%, Atk Spd +27, All Elemental Damage +25% Special: Each elemental attack has a 15% chance to inflict corresponding elemental status Special: 5% chance to deal damage of all elements simultaneously"
+Fractal The infinite Point,100+,Crafted,Mythical,Nil Element,150,75,150,75,150,75,500,500,,"Hit +40%, Crit +50%, Atk Spd +30, Atk Count +3, All Stats +20% Special: Attacks ignore 40% of enemy defense and resistance Special: 20% chance to create a ""Fractal Echo"" that repeats the attack at 50% power Special: Each hit has a 5% chance to trigger a skill without MP cost Special: Dimensional Shift - 10% chance to attack all enemies simultaneously"
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Note implemented yet,,,,,,,,,,,,,,
+Polearm,,,,,,,,,,,,,,
+Fang Of Silvanus,,,,,,,,,,,,,,
+Everglow,,,,,,,,,,,,,,
+Wild Piercer,,,,,,,,,,,,,,
+Axes,,,,,,,,,,,,,,
+Ancient War Axe,,,,,,,,,,,,,,
+Blackbone Axe,,,,,,,,,,,,,,
+Revenants Unmaker,,,,,,,,,,,,,,
+Goblin Executioner,,,,,,,,,,,,,,
+Giant's Axe,,,,,,,,,,,,,,
+Crystal Great Axe,,,,,,,,,,,,,,
+Serration,,,,,,,,,,,,,,
+Loch Ta,,,,,,,,,,,,,,
+Fragment of Chaos,,,,,,,,,,,,,,
+Might of Silvanus,,,,,,,,,,,,,,

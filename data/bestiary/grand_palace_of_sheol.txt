@@ -1,0 +1,52 @@
+LEVEL_RANGE: 90-105
+Amassed Envy,amassed_envy
+    Loot:
+        (No loot listed)
+Boundless Greed,boundless_greed
+    Loot:
+        (No loot listed)
+Endles Gluttony,endles_gluttony
+    Loot:
+        (No loot listed)
+Restrained Sloth,restrained_sloth
+    Loot:
+        (No loot listed)
+Uncontrolled Lust,uncontrolled_lust
+    Loot:
+        (No loot listed)
+Unyielding Pride,unyielding_pride
+    Loot:
+        (No loot listed)
+The Arrogant,the_arrogant
+    Loot:
+        (No loot listed)
+The Schemer,the_schemer
+    Loot:
+        (No loot listed)
+The Sophmoric,the_sophmoric
+    Loot:
+        (No loot listed)
+The Ungrateful,the_ungrateful
+    Loot:
+        (No loot listed)
+Shade Of Darkness,shade_of_darkness
+    Loot:
+        (No loot listed)
+Fallen Angel Lilith,fallen_angel_lilith
+    Loot:
+        (No loot listed)
+Fallen Angel Belial,fallen_angel_belial
+    Loot:
+        (No loot listed)
+Fallen Angel Eisheth,fallen_angel_eisheth
+    Loot:
+        (No loot listed)
+Fallen Angel Asmodeus,fallen_angel_asmodeus
+    Loot:
+        (No loot listed)
+Fallen Angel Xaphan,fallen_angel_xaphan
+    Loot:
+        (No loot listed)
+Lucifer Morningstar,lucifer_morningstar
+    Loot:
+        (No loot listed)

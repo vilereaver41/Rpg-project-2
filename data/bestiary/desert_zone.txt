@@ -1,0 +1,40 @@
+LEVEL_RANGE: 30-37
+Desert Fiend,desert_fiend
+  - Sun-Bleached Bones
+  - Desert Lizard Tail
+Living Mirage,living_mirage
+  - Desert Rose Crystal
+  - Mirage Essence
+  - Mirage Pepper
+Viscious Marauder,viscious_marauder
+  - Dune Raider's Hauberk
+  - Sun-Dried Cactus Fruit
+Sand Worm,sand_worm
+  - Scorching Sand
+  - Sand Worm Meat
+Antilion Maneater.,antilion_maneater.
+  - Oasis Water
+  - Cactus Fiber
+Desert Prowler,desert_prowler
+  - Nomad's Leggings
+  - Cactus Fiber
+Earthtomb Scorpion,earthtomb_scorpion
+  - Oasis Water
+Giant Sun Python.,giant_sun_python.
+  - Desert Viper Venom
+  - Sun Python Eggs
+Sun Scorch Wyrm.,sun_scorch_wyrm.
+  - Radiance Graspers
+Time Worn Protector,time_worn_protector
+  - Ancient Power Core
+  - Timeworn Armor Piece
+  - Worn Clockwork Gears
+  - Temporal Essence
+Ancient Construct,ancient_construct
+  - Ancient Power Core
+  - Construct Plating
+  - Arcane Circuitry
+  - Temporal Essence
+Solaris Invoker,solaris_invoker
+  - Sunburst Vestments
+  - Sunstone

@@ -1,0 +1,49 @@
+LEVEL_RANGE: 100-120
+Conceptual Predator,conceptual_predator
+    Loot:
+        (No loot listed)
+Paradox Incarnate,paradox_incarnate
+    Loot:
+        (No loot listed)
+Nullspace Abberation,nullspace_abberation
+    Loot:
+        (No loot listed)
+Reality Glitch,reality_glitch
+    Loot:
+        (No loot listed)
+Entropic Swarm,entropic_swarm
+    Loot:
+        (No loot listed)
+Thread Of Reality,thread_of_reality
+    Loot:
+        (No loot listed)
+Oblivion, the End of All Things,oblivion,_the_end_of_all_things
+    Loot:
+        (No loot listed)
+Entropius, the Inevitable Decay,entropius,_the_inevitable_decay
+    Loot:
+        (No loot listed)
+Lux, the Paradoxical Illumination,lux,_the_paradoxical_illumination
+    Loot:
+        (No loot listed)
+Gnosis, the Overwhelming Insight,gnosis,_the_overwhelming_insight
+    Loot:
+        (No loot listed)
+The Frozen Flame of Eternity,the_frozen_flame_of_eternity
+    Loot:
+        (No loot listed)
+The Molten Ice of the Abyss,the_molten_ice_of_the_abyss
+    Loot:
+        (No loot listed)
+The Merciful Blade of Judgment,the_merciful_blade_of_judgment
+    Loot:
+        (No loot listed)
+The Cruel Caress of Salvation,the_cruel_caress_of_salvation
+    Loot:
+        (No loot listed)
+The Black Hand Of White Space,the_black_hand_of_white_space
+    Loot:
+        (No loot listed)
+The White Hand Of Black Space,the_white_hand_of_black_space
+    Loot:
+        (No loot listed)

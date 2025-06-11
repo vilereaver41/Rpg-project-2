@@ -1,0 +1,45 @@
+LEVEL_RANGE: 1-10
+Squirrelkin,squirrelkin
+  - Squirrelkin Pelt
+  - Rusty Knife
+Swift Sparrow,swift_sparrow
+  - Bird feather
+  - Ragged Bird feather
+Wahshling,wahshling
+  - Washling sap
+  - Vine Tendril
+  - Sharp Vine Stick
+Goblin Forager,goblin_forager
+  - Goblin loot bag
+  - Rusty Ring
+Goblin Scout,goblin_scout
+  - Goblin loot bag
+  - Rusty Sword
+Goblin Crook,goblin_crook
+  - Goblin loot bag
+  - Leather Cap
+  - Leather Gloves
+  - Leather Chestpiece
+  - Leather Pants
+  - Leather Boots
+  - Skinning Knife
+  - Iron Dagger
+Large River Crab,large_river_crab
+  - River Crab Shell
+  - Decorated Steel Dagger
+Leaping Serpent Fish,leaping_serpent_fish
+  - Handfull of fish scales
+  - Slice of Serpent Fish
+Small Chomper,small_chomper
+  - Chomper Fillet
+  - Chomper Skin
+  - Chomper Tooth
+Leaf Lurker,leaf_lurker
+  - Lurker Essence
+  - Lurker Leaf
+Terratorial Swooper,terratorial_swooper
+  - Large swooper feather
+River Sprite,river_sprite
+  - River Elementals Eye
+  - Bloompearl Earring
+  - River Earring

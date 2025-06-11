@@ -1,0 +1,25 @@
+LEVEL_RANGE: 48-60
+Ice Borer Wyrm,ice_borer_wyrm
+  - Ice Borer Fang
+Iceberg Golem,iceberg_golem
+  - Purified Ice Crystal
+Iceheart Revenant,iceheart_revenant
+  - Frozen Heart Shard
+Cryohide Hound,cryohide_hound
+  - Cryohide Pelt
+Frozen Dead,frozen_dead
+  - Preserved Frozen Bone
+Hoarfrost Hunter,hoarfrost_hunter
+  - Frost-Tipped Claw
+Hoarfrost Shaman,hoarfrost_shaman
+  - Shaman's Icy Totem
+Hoarfrost Blood Seeker.,hoarfrost_blood_seeker.
+  - Frozen Mana Crystal
+Lesser Glacial Wyrm,lesser_glacial_wyrm
+  - Glacial Wyrm Scale
+Hoarfrost Chieftan,hoarfrost_chieftan
+  - Chieftain's Frozen Crown
+Glacius The Ice Wolf,glacius_the_ice_wolf
+  - Glacius' Fang
+Verglas Dragon of the South,verglas_dragon_of_the_south
+  - Verglas Dragon Scale

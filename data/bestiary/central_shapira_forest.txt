@@ -1,0 +1,22 @@
+LEVEL_RANGE: 10-20
+Fat Chomper,fat_chomper
+  - Chomper Fillet
+  - Chomper Skin
+  - Chomper Tooth
+Bark Golem,bark_golem
+  - Bark Fragments
+  - Golem Core
+Nature Slime,nature_slime
+  - Crystalized Life Fragment
+Mature Wahsh,mature_wahsh
+  - Mature Wash Blossom
+  - Mature wash vine
+Forest Serpent,forest_serpent
+  - Serpent Scale
+  - Venom Sac
+Treant Elder,treant_elder
+  - Elder moss
+  - Treant Elders sapling
+  - Crystal Bark
+  - Treant Elders Gaze
+  - Crystal Bark Shield

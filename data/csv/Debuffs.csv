@@ -1,0 +1,74 @@
+Name,ID,,Min Duration,Max Duration,Stats Modified,Modifier Value,Type,Tick Effect,Tick Power,Stack Type,Effect
+Poison,Poison,Nature,2,3,Hp.Regen,,Debuff,HoT,7%,,"Health Points, -7% Per Turn"
+Blind,Blind,Darkness,2,3,Hit,-50%,Debuff,,,,
+Silence,Silence,Null Element,2,2,,,Debuff,,,,Magic = Seal
+Confusion,Confusion,Null Element,2,4,,,Debuff,,,,Target Attack = All
+Fascination,Fascination,Null Element,2,4,,,Debuff,,,,Target Attack = Ally
+Sleep,Sleep,Darkness,3,5,,,Debuff,,,,Target Action = False
+Bleed,Bleed,Physical,3,4,Hp.Regen,,Debuff,HoT,,,Caster.Atk+Dmg+Skill =Bleed.Dmg
+Burn,Burn,Fire,2,2,"Def, M.Def, Agi, Hp.Regen","-10%, 10%, 5%",Debuff,HoT,10%,,"Health Points = -10% Per Turn, Weakness Fire Magic +60%"
+Chill,Chill,Ice,2,2,"Mx.Mp, Tp.Regen, ",-20%,Debuff,ToT,10%,,"Weakness Fire Magic +30%, Tp Points, -10% Per Turn"
+Fear,Fear,Darkness,2,4,"Crit, Hit,. Atk, M.Atk","-50%, -50%, -20%, -20%",Debuff,,,,Action Fail = 20-50%
+Melt,Melt,Fire,2,4,"Def, M.Def","-20%, -20%",Debuff,,,,Weakness Fire Magic +10%
+Heavy Bleed,Heavy_Bleed,Physical,1,2,,,Debuff,,,,Caster.Atk+Dmg+Skill =Bleed.Dmg + 30%
+IGNORE BELOW!!,,,,,,,,,,,
+Sun Scar,Sun_Scar,Fire,2,3,"Mx.Hp, Agi, Luck","-10%, -10%, -10%,",Debuff,,,,"Element Fire magic +30%, Weakness Water Magic = 20%"
+Moonblight,Moonblight,Null Element,2,3,,,Debuff,,,,M.Atk * 90% - Mgc Dmg * 90% - M.Def & Max Mp * 85% - Luck * 80% - Mp Rgn -5% - Element Rate Light & Darkness * 130%
+Shifting Warp,Shifting_Warp,Null Element,2,4,,,Debuff,,,,Eva -15% - Hit -10% - Mp Rgn & Hp Rgn -5% - Tp Charge Rate * 120% - M.Def & Atk * 95% - M.Atk * 105%
+Hellfire,Hellfire,Darkness + Fire,2,4,,,Debuff,,,,Element Rate Fire & Darkness * 150% - Element Rate Water * 90% - Element Rate Ice * 80% Mgc Eva & Eva -10% - Crit Eva -5% -  Burn * 50% - Melt * 20%
+Damaged Soul,Damaged_Soul,Darkness,2,4,,,Debuff,,,,MP Rgn -30% - HP Rgn -15% - Def & M.Def * 90% - Fear & Confusion * 20%
+Elemental Wound,Elemental_Wound,Null Element,2,4,,,Debuff,,,,Element Rate All except Light And Darkness * 150% - Burn & Chill & Poison * 15% - Max Hp & Mp * 90%
+Accuracy Down,Accuracy_Down,Null Element,2,3,,,Debuff,,,,Hit - 10%
+Attack Down,Attack_Down,Null Element,2,3,,,Debuff,,,,Atk * 90%
+Defense Down,Defense_Down,Null Element,2,3,,,Debuff,,,,Def * 90%
+Magic Attack Down,Magic_Attack_Down,Null Element,2,3,,,Debuff,,,,M.Atk * 90%
+Magic Defense Down,Magic_Defense_Down,Null Element,2,3,,,Debuff,,,,M.Def * 90%
+Evasion Down,Evasion_Down,Null Element,2,3,,,Debuff,,,,Eva - 10%
+Agility Down,Agility_Down,Null Element,2,3,,,Debuff,,,,Crit * 5% -  Agi * 90%
+Stun,Stun,Physical,1,1,,,Debuff,,,,"Stuns the target, success rate 43%"
+Dark Ailment,Dark_Ailment,Darkness,2,3,,,Debuff,,,,Hit & Mgc Eva -5% - Recov * 80%
+,,,,,,,,,,,
+Weakened,Weakened,Darkness,2,2,,,Debuff,,,,Def * 120% - Luck * 90%
+Dizzyness,Dzzyness,Darkness,2,3,,,Debuff,,,,Phys & Max Hp & M.Def * 90% - Hit -10%
+Manifestations,Manifestations,Darkness,2,3,,,Debuff,,,,Crit & M.Eva -10% - Hp Rgn -3% - Darkness * 115%
+Magic Evasion Down,Magic_Evasion_Down,Null Element,2,3,,,Debuff,,,,M.Eva -15%
+Scorched,Scorched,Fire,2,3,,,Debuff,,,,"Damage over time, reduces water resistance"
+Dehydrated,Dehydrated,Fire,2,3,,,Debuff,,,,Lowers max HP and agility
+Time Warp,Time_Warp,Null Element,2,3,,,Debuff,,,,Random stat changes each turn
+Desert Fever,Desert_Fever,Earth,2,3,,,Debuff,,,,Lowers accuracy and increases damage taken
+Quicksand Grip,Quicksand_Grip,Earth,2,3,,,Debuff,,,,Decreases agility and chance to be immobilized each turn
+Sunblind,Sunblind,Fire,2,3,,,Debuff,,,,Decreases accuracy and evasion
+Time Fracture,Time_Fracture,Null Element,2,3,,,Debuff,,,,Actions have a chance to fail
+Volcanic Instability,Volcanic_Instability,Fire,2,3,,,Debuff,,,,Randomly increases or decreases magic attack each turn
+Ash Cloud,Ash_Cloud,Earth,2,3,,,Debuff,,,,Decreases accuracy and evasion for all battlers
+Lava Flow,Lava_Flow,Fire,2,3,,,Debuff,,,,"Damage over time, chance to be immobilized each turn"
+Crystallized,Crystallized,Earth,2,3,,,Debuff,,,,"Decreases agility, but increases defense"
+Dragonfire,Dragonfire,Fire,2,3,,,Debuff,,,,"Damage over time, spreads to nearby allies each turn"
+Hypothermia,Hypothermia,Ice,2,3,,,Debuff,,,,Gradually decreases HP and lowers agility
+Frozen Solid,Frozen_Solid,Ice,2,3,,,Debuff,,,,"Cannot act, but greatly increases defense"
+Soul Freeze,Soul_Freeze,Darkness,2,3,,,Debuff,,,,Prevents MP regeneration and increases MP costs
+Demonic Possession,Demonic_Possession,Darkness,2,3,,,Debuff,,,,Randomly forces unit to attack allies
+Soulbound,Soulbound,Darkness,1,2,,,Debuff,,,,Shares damage taken with the caster
+Abyssal Curse,Abyssal_Curse,Darkness,2,3,,,Debuff,,,,Reduces max HP and healing received
+Void Touched,Void_Touched,Darkness,2,3,,,Debuff,,,,Randomly nullifies buffs or healing
+Memory Lapse,Memory_Lapse,Light,2,3,,,Debuff,,,,Randomly prevents the use of skills or items
+Light Siphon,Light_Siphon,Light,2,3,,,Debuff,,,,Converts a portion of healing received into damage
+Elemental Chaos,Elemental_Chaos,Null Element,2,3,,,Debuff,,,,Randomly changes the target's elemental weaknesses each turn
+Cosmic Drain,Cosmic_Drain,Null Element,2,3,,,Debuff,,,,Gradually decreases all stats over time
+Soul Shatter,Soul_Shatter,Null Element,2,3,,,Debuff,,,,Prevents the use of special abilities and reduces max HP
+Reality Warp,Reality_Warp,Null Element,2,3,,,Debuff,,,,Randomly changes the target's equipment effects each turn
+Void Corruption,Void_Corruption,Darkness,2,3,,,Debuff,,,,Decreases healing effects and gradually drains MP
+Covetous Gaze,Covetous_Gaze,Darkness,2,3,,,Debuff,,,,Reduces the effectiveness of healing and item use
+Avaricious Aura,Avaricious_Aura,Darkness,2,3,,,Debuff,,,,Reduces the effectiveness of healing and item use
+Insatiable Hunger,Insaitiable_Hunger,Darkness,2,3,,,Debuff,,,,Gradually decreases max HP and increases damage taken
+Entropic Lethargy,Entropic_Lethargy,Darkness,2,3,,,Debuff,,,,Drastically slows action speed and increases skill cooldowns
+Seductive Charm,Seductive_Charm,Darkness,2,3,,,Debuff,,,,Chance to waste turn attacking allies or using items on enemies
+Overwhelming Pride,Overwhelming_Pride,Darkness,2,3,,,Debuff,,,,Increases damage taken from critical hits and weakness exploitation
+Blinding Arrogance,Blinding_Arrogance,Darkness,2,3,,,Debuff,,,,"Decreases accuracy and evasion, increases damage from back attacks"
+Chaotic Brilliance,Chaotic_Brilliance,Darkness,2,3,,,Debuff,,,,Randomly enhances or diminishes the power of skills used
+Temporal Decay,Temporal_Decay,Darkness,2,3,,,Debuff,,,,Gradually decreases all stats over time
+Void Consumption,Void_Consumption,Darkness,2,3,,,Debuff,,,,Absorbs a portion of healing and buffs applied to nearby allies
+Primordial Instability,Primordial_Instability,Darkness,2,3,,,Debuff,,,,Randomly changes elemental affinity and weaknesses each turn
+Corrupted Divinity,Corrupted_Divinity,Darkness,2,3,,,Debuff,,,,"Converts a portion of light-based healing into damage Now, let's create the next batch of enemies with their unique states:"
+Conceptual Erasure,Conceptual_Erasure,Null Element,2,3,,,Debuff,,,,Nullifies one random ability of the target each turn
+Existential Drain,Existential_Drain,Null Element,2,3,,,Debuff,,,,"Continuously drains HP, MP, and all stats"

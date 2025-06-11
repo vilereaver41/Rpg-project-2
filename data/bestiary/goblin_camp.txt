@@ -1,0 +1,13 @@
+LEVEL_RANGE: 15-18
+Goblin Slasher,goblin_slasher
+  - Steel Gladius
+  - Slick Goblins Knife
+Goblin Brute,goblin_brute
+  - Right Curve Blade
+  - Shiny Steel Ring
+Goblin Mage,goblin_mage
+  - Shiny Steel Ring
+Goblin Blacksmith,goblin_blacksmith
+  - Iron Sword
+  - Steel shield
+  - Rusty Darkened Steel Protector

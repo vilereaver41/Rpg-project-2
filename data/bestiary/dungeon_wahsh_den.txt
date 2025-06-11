@@ -1,0 +1,15 @@
+LEVEL_RANGE: 17-20
+Elder Wahsh Ripper,elder_wahsh_ripper
+  - Elder Wash Amber
+  - Left Curve Blade
+Wahsh Hunter,wahsh_hunter
+  - Jagged Hunter Claw
+  - Hunters Cloak
+Wahsh Juggernaught,wahsh_juggernaught
+  - Juggernaught Cloak
+Wahsh Matriarch,wahsh_matriarch
+  - Wash Matriarchs Thorn
+  - Wash Seed pod
+Wahsh Emperor,wahsh_emperor
+  - Wash Emperor's root
+  - Emperors Leafy Crown

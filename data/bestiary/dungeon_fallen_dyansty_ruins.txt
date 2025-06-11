@@ -1,0 +1,37 @@
+LEVEL_RANGE: 45-51
+Mummified Guardian,mummified_guardian
+  - Ritual Dagger
+  - Ancient Wrappings
+  - Preserved Organ
+  - Mummified Spices
+Archivist Echo,archivist_echo
+  - Echoing Ink
+  - Spectral Parchment
+  - Forgotten Knowledge Shard
+  - Ethereal Fruit
+Oathbound Loyal.,oathbound_loyal.
+  - Royal Incense
+  - Fine Silk Scrap
+Royal Idolator,royal_idolator
+  - Golden Idol Fragment
+  - Royal Seal Fragment
+Dynasty Noble,dynasty_noble
+  - Crystal-Infused Mineral
+  - Tarnished Crown Shard
+Royal Golem,royal_golem
+  - Ancient Power Core
+  - Construct Plating
+  - Arcane Circuitry
+  - Temporal Essence
+Fallen Prince,fallen_prince
+  - Imperial Shard
+  - Prince's Favorite Wine
+  - Divine Stone
+Ancient Gods Effigy,ancient_gods_effigy
+  - Ancient Essence
+  - Fallen Emperor's Tear
+Fallen Emperor.,fallen_emperor.
+  - Emperor's Wisdom
+  - Imperial Shard
+  - Fallen Emperor's Tear
+  - Ambrosia Residue

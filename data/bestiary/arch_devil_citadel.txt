@@ -1,0 +1,36 @@
+LEVEL_RANGE: 54-70
+She'ol Highguard.,she'ol_highguard.
+  - Infernal Steel Fragment
+  - Highguard's Emberweave Cloth
+Sin Seeker,sin_seeker
+  - Sin-Stained Crystal
+Corrupted One,corrupted_one
+  - Seeker's Dark Essence
+Worshipper Of Sin,worshipper_of_sin
+  - Forbidden Fruit
+Ashwalker Imp,ashwalker_imp
+  - Corrupted Soul Shard
+  - Tainted Flesh
+Demon Eater Wyrm,demon_eater_wyrm
+  - Bitter Corruption Root
+  - Unholy Symbol
+Abyssal Impaler,abyssal_impaler
+  - Sinful Incense
+  - Damned Delicacy
+Soulbound Construct,soulbound_construct
+  - Imp Horn
+  - Ashwalker's Ember
+Archdevil Greater Guard,archdevil_greater_guard
+  - Spicy Imp Tail
+Archdevil Soul Flayer,archdevil_soul_flayer
+  - Demon Eater Scale
+Archdevil Advisor,archdevil_advisor
+  - Wyrm's Void Essence
+Demon Noble Shalazriel,demon_noble_shalazriel
+  - Abyssal Spike
+  - Hellfire-Forged Metal
+Assassinator Uruviel,assassinator_uruviel
+  - Impaler's Spices
+Arch-Devil Bael,arch-devil_bael
+  - Soulbound Stone
+  - Soul Essence Extract

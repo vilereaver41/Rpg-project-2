@@ -1,0 +1,70 @@
+LEVEL_RANGE: 76-90
+Demon Grand Guard,demon_grand_guard
+    Loot:
+        Infernal Guard Plate
+        Demon's Flame Essence
+        Spicy Demon Jerky
+Greater Demon,greater_demon
+    Loot:
+        Greater Demon Horn
+        Concentrated Hellfire
+        Demon's Heart
+Tortured Sinner,tortured_sinner
+    Loot:
+        Sinner's Regret
+        Crystal Bittersweet  Fruit
+Lesser One,lesser_one
+    Loot:
+        Lesser Ones Claw
+        Impure Hellstone
+Sin Watcher,sin_watcher
+    Loot:
+        All-Seeing Eye
+        Crystallized Sin
+Broken One,broken_one
+    Loot:
+        Shattered Greater Soul
+        Essence of Despair
+        Broken Dreams Brew
+Demon Royal Knight,demon_royal_knight
+    Loot:
+        Demonic Royal Insignia
+        Hellforged Armor Fragment
+        Knight's Infernal Ration
+Fallen Prophet,fallen_prophet
+    Loot:
+        Bottled Drop of Holiness
+        Prophet's Cursed Scroll
+        Void Prophecy Stone
+        Enlightened Darkness Essence
+Duke Of Hell,duke_of_hell
+    Loot:
+        Essence of Authority
+        Luxurious Demon Wine
+Arch-Devil,arch-devil
+    Loot:
+        Arch-Devil's Horn
+        Concentrated Evil Essence
+        Devil Lord's Heart
+Fallen Angel,fallen_angel
+    Loot:
+        Angel Aura Flame
+        Bottled Drop of Holiness
+        Contained Holy Fire
+        Broken Halo Shard
+        Corrupted Divine Feather
+        Ambrosia of the Fallen
+Corrupted Apostle,corrupted_apostle
+    Loot:
+        Bottled Drop of Holiness
+        Repetence Blade Of The Apostle
+        Apostle's Corrupted Relic
+        Essence of Betrayal
+        Fruit of Knowledge
+Demon Sin Noble,demon_sin_noble
+    Loot:
+        Devil Lord's Heart
+        She'ols Insanity
+        Noble's Sinful Crown
+        Crystallized Cardinal Sin
+        Seven Deadly Spices

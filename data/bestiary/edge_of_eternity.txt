@@ -1,0 +1,55 @@
+LEVEL_RANGE: 86-105
+Broken Demigod,broken_demigod
+    Loot:
+        Shattered Divine Essence
+        Fractured Eternity Shard
+        Demigod's Tears
+Astral Remnant,astral_remnant
+    Loot:
+        Cosmic Dust
+        Astral Memory
+        Star-Infused Nectar
+Singularity Dancer,singularity_dancer
+    Loot:
+        Singularity Core
+        Reality-Warped Metal
+        Gravity-Defying Morsel
+Echo Of Time,echo_of_time
+    Loot:
+        Temporal Echo Crystal
+        Paradox Essence
+        Timeless Preserves
+Echo of Space,echo_of_space
+    Loot:
+        Spatial Distortion Fragment
+        Void-Touched Matter
+        Infinitely Expanding Snack
+Berserking Demigod,berserking_demigod
+    Loot:
+        Rage-Infused Divine Blood
+        Chaotic Godflesh
+        Fury-Spiced Meat
+Eternity Touched Collosus,eternity_touched_collosus
+    Loot:
+        Eternal Stone Fragment
+        Colossus' Timeless Essence
+Entity From Beyond,entity_from_beyond
+    Loot:
+        Beyond Realm Fragment
+        Extra-dimensional Energy Core
+        Cosmic Chaos Extract
+Half Step Deity,half_step_deity
+    Loot:
+        (No loot listed)
+Broken Deity,broken_deity
+    Loot:
+        (No loot listed)
+Deific Amalgumation,deific_amalgumation
+    Loot:
+        (No loot listed)
+True God Of Another Age,true_god_of_another_age
+    Loot:
+        (No loot listed)
+Parnoxian Dragon Of Another Verse,parnoxian_dragon_of_another_verse
+    Loot:
+        (No loot listed)

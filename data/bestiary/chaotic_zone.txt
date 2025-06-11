@@ -1,0 +1,76 @@
+LEVEL_RANGE: 65-95
+Void Fiend,void_fiend
+    Loot:
+        Void Essence
+        Fiend's Chaotic Claw
+Darkthunder Elemental,darkthunder_elemental
+    Loot:
+        Echoing Thunder Studs
+        Dark Lightning Shard
+        Thunderous Shadow Essence
+Umbral Leech,umbral_leech
+    Loot:
+        Shadow Leech Fang
+        Umbral gem
+        Essence of darkness
+Dark Water Snake,dark_water_snake
+    Loot:
+        Abyssal Scales
+        Dark Aqua Essence
+        Murky Serpent Meat
+Maelstrom Hydra,maelstrom_hydra
+    Loot:
+        Hydra's Storm Scale
+        Maelstrom Core
+        Maelstrom-Infused Hydra flank
+Cloud Eater Wyrm,cloud_eater_wyrm
+    Loot:
+        Ethereal Cloud Fragment
+        Wind Wyrm's Breath
+        Condensed Sky Essence
+Living Lightning,living_lightning
+    Loot:
+        Bottled Lightning
+        Storm Entity Core
+        Electrified Ether
+Empowered Cyclone,empowered_cyclone
+    Loot:
+        Cyclone's Eye
+        Compressed Gale Force
+        Windswept Spice
+Tsunami Leviathan,tsunami_leviathan
+    Loot:
+        Leviathan's Tidal Scale
+        Abyssal Ocean Essence
+        Deep Sea Muscle
+Static Anomaly,static_anomaly
+    Loot:
+        Anomalous Static Crystal
+        Chaos-Charged Particle
+        Strange Flavor Extract
+Hydros The Azure Prince,hydros_the_azure_prince
+    Loot:
+        Azure Prince's Trident Shard
+        Royal Abyssal Pearl
+        Elixir of the Deep
+Entity From Beyond,entity_from_beyond
+    Loot:
+        Beyond Realm Fragment
+        Extra-dimensional Energy Core
+        Cosmic Chaos Extract
+Axiom Elder Dragon Of The Depths,axiom_elder_dragon_of_the_depths
+    Loot:
+        Treads of the Storm and Sea
+        Scaleguard of the Depths
+        Scale Of Axiom
+        Primordial Water Essence
+Fulguron Elder Dragon Of The Skys,fulguron_elder_dragon_of_the_skys
+    Loot:
+        Skywarden's Helm
+        Fulguron's Thunderous Fang
+        Sky Dragon's Storm Heart
+Anzurith Demigod Of Earth,anzurith_demigod_of_earth
+    Loot:
+        Anzurith's Earthen Crown piece
+        Crystallized Demigod Essence
+        Gaia's Blessed Fruit

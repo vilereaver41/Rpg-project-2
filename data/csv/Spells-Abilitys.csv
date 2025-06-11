@@ -1,0 +1,321 @@
+Universal Melee,Skill Rarity,Skill Type,Scope,Cost,Dmg Type,Element,Occasion,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,
+Attack (Base Attack),,None,Single,0,Hp Damage,Physical,Battle Screen,a.atk * 2 - b.def * 2,20%,Yes,Physical,Null,Null,Null,Null,Null,,
+Sword,,Skill Type,Scope,Tp Cost,Dmg Type,Element,,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,
+Power Strike,Common,Special,Single,10,Hp Damage,Physical,Battle Screen,Damage = (a.atk * 2 - b.def) + 5,20%,Yes,Physical,Null,Sword,Null,Null,Strike with force against your target.,,
+Armor Break,Common,Special,Single,5,Hp Damage,Physical,Battle Screen,a.atk * 1 - b.def * 1,20%,No,Physical,Null,Sword,Def Down  2 Turns,Null,Lowers your Targets defenses for 2 turns.,,
+Serration,Common,Special,Single,0,Hp Damage,Physical,Battle Screen,a.atk * 2 - b.def * 2,20%,No,Physical,Null,Sword,Bleed 100%,Null,"Serates your enemy, causing them to bleed.",,
+Vortex Slash,Uncommon,Special,Single,15,Hp Damage,Physical,Battle Screen,a.atk * 2 - b.def,15%,Yes,Physical,Null,Sword,Null,Null,"Unleashes a spinning attack that hits all Targets around the user, with a chance to reduce their Attack.",,
+Dual Blade,Common,Special,Single,10,Hp Damage,Physical,Battle Screen,(a.atk * 1.5 - b.def) * 2,20%,Yes,Physical,Null,Sword,Null,Null,"Strikes twice at a single enemy with with great force, with each hit having a small chance to crit.",,
+Sword Beam,Uncommon,Special,Single,15,Hp Damage,Physical,Battle Screen,a.mat * 2 - b.mdf,20%,Yes,Physical,Null,Sword,Null,Null,Fires a concentrated beam of energy from the sword at a single target.,,
+Whirlwind Slash,Common,Special,All,20,Hp Damage,Physical,Battle Screen,a.atk * 1.8 - b.def,20%,Yes,Physical,Null,Sword,Null,Null,"Creates a whirlwind that damages all enemies and has a chance to disorient them, reducing their accuracy.",,
+Thunder Strike,Uncommon,Special,Single,0,Hp Damage,Thunder,Battle Screen,Null,20%,Yes,Physical,Null,Sword,Null,Null,Null,,
+Frost Edge,Uncommon,Special,Single,0,Hp Damage,Ice,Battle Screen,a.mat * 1.5 - b.mdf,20%,Yes,Physical,Null,Sword,Agi Down 100%,Null,"A chilling attack that damages and slows a single enemy, reducing their speed for several turns.",,
+Raging Flame Slash,Uncommon,Special,Single,10,Hp Damage,Fire,Battle Screen,(a.atk * 2 - b.def) + (a.mat * 0.5),20%,Yes,Physical,Null,Sword,Burn 45%,Null,"A powerful slash that deals heavy damage to a single enemy and has a chance to inflict ""Burn"" status.",,
+Tempest Sword,Uncommon,Special,All,5,Hp Damage,Thunder,Battle Screen,a.mat * 2.2 - b.mdf,20%,Yes,Physical,Null,Sword,Null,Null,"Summons a storm of lightning strikes that hit all enemies, with a chance to stun.",,
+Judgement Blade,Uncommon,Special,Single,10,Hp Damage,Light,Battle Screen,(a.mat * 3 - b.mdf) * (target.isEnemyType('dark') ? 1.5 : 1),20%,Yes,Physical,Null,Sword,Null,Null,"Delivers a single, powerful strike to an enemy, dealing massive light damage.",,
+Meteor Strike,Uncommon,Special,Single,20,Hp Damage,Fire,Battle Screen,a.atk * 3.5 - b.def,20%,Yes,Physical,Null,Sword,Null,Null,The user leaps and strikes the ground with force that mimics a meteor's impact.,,
+Divine Blade,Uncommon,Special,Single,20,Hp Damage,Light,Battle Screen,a.atk * 2.5 - b.def * 0.5,20%,Yes,Physical,Null,Sword,Null,Null,"A single, divine-powered slash ignoring a portion of the enemy's defense.",,
+Edge Of Darkness,Uncommon,Special,Three Random,15,Hp Damage,Darkness,Battle Screen,Null,20%,Yes,Physical,Null,Sword,Null,Null,"A sweeping attack that cloaks the blade in shadows, dealing damage to 3 targets and reducing their accuracy",,
+Massacre Slash,Uncommon,Special,All,15,Hp Damage,Physical,Battle Screen,(a.atk * 1.2 - b.def) * 4,20%,Yes,Physical,Null,Sword,Null,Null,"A series of rapid slashes that hit all enemies multiple times with physical damage,",,
+Timeless Edge,Rare ,Special,Single,,Hp Damage,Null,Battle Screen,a.mat * 1.5 - b.mdf,20%,Yes,Physical,Null,Sword,Shifting Warp 100%,Null,"A precise strike that seems to warp time itself around the target, Inflicting Shifting warp.",,
+Mountain Cleaver,Rare ,Special,Single,10,Hp Damage,Earth,Battle Screen,a.atk * 3 - b.def,20%,Yes,Physical,Null,Sword,Null,Null,"A powerful downward slash that creates a shockwave, dealing heavy earth damage to all enemies",,
+Sword Of Heaven,Epic,Special,Single,10,Hp Damage,Light,Battle Screen,a.atk * 4 - b.def,20%,Yes,Physical,Null,Sword,Null,Null,A sword light that will strike an Target with pure light energy and convert a portion of the damage to health.,,
+Celestial Strike,Rare ,Special,All,5,Hp Damage,Null,Battle Screen,a.atk * 2.5 - b.def,20%,Yes,Physical,Null,Sword,Null,Null,"Using your sword call down celestial energy to strike all enemies, dealing light damage & blinding them",,
+Dragons Claw,Rare ,Special,Single,20,Hp Damage,Physical,Battle Screen,a.atk * 3 - b.def,20%,Yes,Physical,Null,Sword,Null,Null,"mimicking a dragon's claw, as the user unleashes a devastating strike on a single enemy.",,
+Earthern Realm Blade,Epic,Special,All,15,Hp Damage,Earth,Battle Screen,a.atk * 2.8 - b.def,20%,Yes,Physical,Null,Sword,Def Down 100%,Null,"Strikes the ground, causing earthen spikes to erupt beneath all enemies, dealing earth damage lowering Defense",,
+God Slayer,Epic,Special,Single,25,Hp Damage,Physical,Battle Screen,a.atk * 6 - b.def * 0.25,20%,Yes,Physical,Null,Sword,Null,Null,"A single, devastating blow, designed to defeat gods. This attack ignores enemy defenses and has a high critical hit rate.",,
+Radiant Light Blade,Rare ,Special,All,20,Hp Damage,Light,Battle Screen,a.mat * 5 - b.mdf,20%,Yes,Physical,Null,Sword,Null,Null,"Summons the pure essence of light into the sword, unleashing a wave of energy that damages all enemies with radiant power",,
+Eternal Rest,Epic,Special,Single,50,Hp Damage,Physical,Battle Screen,a.atk * 4.5 - b.def,10%,Yes,Physical,Null,Sword,Null,Null,"A Powerful single target slash, aimed to put a target towards a Eternal rest, dealing massive damage.",,
+Final Blade,Epic,Special,Single,0,Hp Damage,Null,Battle Screen,a.atk * (1 + (1 - a.hp / a.mhp)) * 5,20%,Yes,Physical,Null,Sword,Null,Lower User HP Increases Damage.,"A forbidden strike that taps into the user's life force, dealing massive damage to a single target at the cost of the user's HP",,
+Eternity Sword Art,Legendary,Special,All,30,Hp Damage,Null,Battle Screen,a.atk * 5.5 - b.def,20%,Yes,Physical,Null,Sword,Shifting Warp 100% - Damaged Soul 100%,Null,"An attack that distorts time itself, This skill deals significant damage to all enemies",,
+Forbidden Technique Anqirad,Legendary,Special,Single,40,Hp Damage,Darkness,Battle Screen,a.mat * 7 - b.mdf,20%,Yes,Physical,Null,Sword,Def & Mgc Def Down 100% - Damaged Soul 100% - State #0039 100%,Null,"Channels ancient, cosmic energy into a blade strike capable of tearing through the fabric of reality.",,
+Sword Passives,,,,,,,,,,,,,,,,,,
+Blade Reaver,Uncommon,,,,,,,,,,,,,,,,,
+Sword Dance,Rare ,,,,,,,,,,,,,,,,,
+Begginer Swordsman,Uncommon,,,,,,,,,,,,,,,,,
+Tried and Tested Bladesman,Uncommon,,,,,,,,,,,,,,,,,
+True Blade Master,Rare ,,,,,,,,,,,,,,,,,
+Blade Parry,Uncommon,,,,,,,,,,,,,,,,,
+Merciless,Uncommon,,,,,,,,,,,,,,,,,
+Cutting Edge,Rare ,,,,,,,,,,,,,,,,,
+Armor Trim,Rare ,,,,,,,,,,,,,,,,,
+Rythmic Sword,Epic,,,,,,,,,,,,,,,,,
+Blade Resonance,Rare ,,,,,,,,,,,,,,,,,
+Sword Spirit,Epic,,,,,,,,,,,,,,,,,
+Sword Saint,Epic,,,,,,,,,,,,,,,,,
+Mastery Of The Sword God,Legendary,,,,,,,,,,,,,,,,,
+Shields,,,,,,,,,,,,,,,,,,
+Shield Bash (Duh),Common,Special,,Single,0,10,Hp Damage,Physical,Battle Screen,a.atk * 0.8 - b.def,5%,No,Certain Hit,Null,Shield,State #0039 60%,Null,"The user strikes an enemy with their shield, dealing physical damage and stunning the enemy for 1 turn"
+Shield Crush,Common,,,,,,,,,,,,,,,,,
+Shield Throw,Uncommon,,,,,,,,,,,,,,,,,
+Shield Rush,Uncommon,,,,,,,,,,,,,,,,,
+Shield Buffs,,,,,,,,,,,,,,,,,,
+Guards Ward,Common,,,,,,,,,,,,,,,,,
+Bulwark,Uncommon,,,,,,,,,,,,,,,,,
+Block,Common,,,,,,,,,,,,,,,,,
+True Block,Rare ,,,,,,,,,,,,,,,,,
+Reflectors Focus,Rare ,,,,,,,,,,,,,,,,,
+Protectors Riposte,Rare ,,,,,,,,,,,,,,,,,
+Aegis Guard,Epic,,,,,,,,,,,,,,,,,
+Shield - Passives,,,,,,,,,,,,,,,,,,
+Blade & Shield Unity,,,,,,,,,,,,,,,,,,
+True Block,,,,,,,,,,,,,,,,,,
+Reject Magic,,,,,,,,,,,,,,,,,,
+Reject Blow,,,,,,,,,,,,,,,,,,
+Guardsman,,,,,,,,,,,,,,,,,,
+High Guard,,,,,,,,,,,,,,,,,,
+Daggers,,,,,,,,,,,,,,,,,,
+Quick Stab,Common,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Poision Strike,Common,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Serated Slice,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Gutting,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Bloodlet,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Dagger Dance,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Knife Twist,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Heartseeker,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Phantom Stab,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Nether Stab,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Tri Fang,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Dancing Edge,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Death's Touch,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Ritual Blade,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Glacial Edge,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Ecliptic Pierce,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Assassin's Wrath,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Dagger Malediction,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Dark Gehenne,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Belials Touch,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Liliths Kiss,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Echos Of Arachne,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Solar Strike,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Piercing Moonlight,Uncommon,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Luna Whisper,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Chaotic Dagger,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Collapsing Pierce,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Fangs Of Sheol,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Time Of Twilight,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Radiant Light Pierce,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Aeolian Edge,Epic,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Blooming Cloud Strike,Rare ,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Requiem Of Entropy,Legendary,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Black Star True Killing,Legendary,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Forbidden Technique Yadhak Shaytan,Legendary,Special,,Null,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Dagger Passives,,,,,,,,,,,,,,,,,,
+Knife Born,Uncommon,Special,,,,,,,,,,,,,,,,
+Agile Slicing,Uncommon,Special,,,,,,,,,,,,,,,,
+Quick Steps,Uncommon,Special,,,,,,,,,,,,,,,,
+Eye For Weakness,Rare ,Special,,,,,,,,,,,,,,,,
+Dagger Twisting,Rare ,Special,,,,,,,,,,,,,,,,
+Fledgeling Assassin,Uncommon,Special,,,,,,,,,,,,,,,,
+Tried & Tested Assassin,Rare ,Special,,,,,,,,,,,,,,,,
+Master Assassin,Epic,Special,,,,,,,,,,,,,,,,
+Precise Blades,Rare ,Special,,,,,,,,,,,,,,,,
+Dagger Affinity,Rare ,Special,,,,,,,,,,,,,,,,
+Vital Point Seeker,Epic,Special,,,,,,,,,,,,,,,,
+Critical Precision,Epic,Special,,,,,,,,,,,,,,,,
+Throat Slit,Rare ,Special,,,,,,,,,,,,,,,,
+Staves,,,,,,,,,,,,,,,,,,
+Head Smack,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Stave Sweep,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Gather Energy,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Aetheric Balance,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Spell Weave,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Magical Resonance,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Wizards Ward,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Elemental Focus,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Spell Sling,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Arcane Deflection,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Spell Enhance,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Aetheric Amplification,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Mage Stance,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Stave Breath,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Arcane Strike,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Arch Mage's Conduit,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Casters Denial,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Aether Beam,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Quick Stasis,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Stave Passives,,,,,,,,,,,,,,,,,,
+Stave Reach,,,,,,,,,,,,,,,,,,
+Arcane Conduit,,,,,,,,,,,,,,,,,,
+Runious Cast,,,,,,,,,,,,,,,,,,
+Grand Wave,,,,,,,,,,,,,,,,,,
+Synergy Of Spells,,,,,,,,,,,,,,,,,,
+Master Ward,,,,,,,,,,,,,,,,,,
+Arcane Touched Caster,,,,,,,,,,,,,,,,,,
+Novice In Arcane Arts,,,,,,,,,,,,,,,,,,
+Aether Embraced Wizard,,,,,,,,,,,,,,,,,,
+Arch Sorcerer,,,,,,,,,,,,,,,,,,
+Quick Casting,,,,,,,,,,,,,,,,,,
+Eye of The Storm,,,,,,,,,,,,,,,,,,
+Maces,,,,,,,,,,,,,,,,,,
+Skull Crack,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Bludgeon,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Numbing Strike,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Endless Swings,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Windup,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Shatter Earth,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Seismic shake,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Spell Breaker,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Heavy Impact,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Demolishing Blow,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Warden Stance,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Juggernaut Rush,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Stone Crusher,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Starfall Strike,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Void Maker,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Cosmic Obliteration,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Pulsar Swing,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Asteroid Bash,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Rift Breakers Crunch,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Empyrean Lords Unmercy,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Creations End,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Primordial Ever Strike,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Divinity Shattering,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Godfall Bludgeon,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Looming Pantheon Breaker,,Null,,Null,Null,Null,Null,Battle Screen,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null
+Maces Passives,,,,,,,,,,,,,,,,,,
+Battle Hardened,,,,,,,,,,,,,,,,,,
+Stance Break,,,,,,,,,,,,,,,,,,
+Violent Strikes,,,,,,,,,,,,,,,,,,
+Magic Dispersal,,,,,,,,,,,,,,,,,,
+Aether Swings,,,,,,,,,,,,,,,,,,
+Armor Denting,,,,,,,,,,,,,,,,,,
+Stunning Strikes,,,,,,,,,,,,,,,,,,
+Bruising Blows,,,,,,,,,,,,,,,,,,
+Demon Slaying,,,,,,,,,,,,,,,,,,
+Devil Cleaving,,,,,,,,,,,,,,,,,,
+God Killer,,,,,,,,,,,,,,,,,,
+Of Mace & Mind,,,,,,,,,,,,,,,,,,
+One With The Shadows,,Magic,,,,,,,,,,,,,,,,
+Light Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Heal,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Mighty Heal,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Light Invocation,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Light Evocation,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Light Conjuration,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Light Nova,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Shimmering Light,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Heavens Wrath,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Radiant Shower,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Light Force Ward,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Radiant Aura,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Consume The Shadows,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Orbs Of Light,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Stellar Brilliance,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Let There Be Light,,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Ice Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Frost Shard,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Ice Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Ice Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Ice Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Flash Freeze,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Icicle Rain,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Diamond Thorn,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Silver Quietus,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Frost Ward,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Frost Aura,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Antarctic Wind,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Frost Pierce,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Icey Blast,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Glacial Impact,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Absolute Zero,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Fire Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Fireball,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Flame Strike,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Flame Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Flame Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Flame Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Charring Heat,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Searing Breath,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Blaze Wind,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Inferno,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Blazing Shield,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Aura Of Fire,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Focused Heat Blast,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Thermal Fusion,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Sun Flare,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Arcane Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Arcane Shell,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Earth Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Quicksand,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Stone Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Stone Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Stone Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Spreading Grave,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Earth Snap,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Looming Quake,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Ward Of Stone,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Crystal Aura,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Pillar Of Stone,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Rock Pierce,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Earthern Blast,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Crystal Lancet,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Fractured Realm,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+,,,,,,,,,,,,,,,,,,
+Water Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Aqua Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Aqua Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Aqua Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Flood Aura,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Flood Ward,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Bubble Breath,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Baloon Splash,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Fountain Surge,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Tidal Current,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Floodforge Blast,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Drowning Cataract,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Torrential Flux,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Wind Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Wind Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Wind Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Wind Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Wind Ward,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Aura Of Wind,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Vacuum Burst,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Gale Winds,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Violent Twisters,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Typhoon Blast,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Ruinous Cyclone,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Raging Hurricane,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Nature Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Detoxify,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Natures Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Natures Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Natures Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Overgrown Briar,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Aberrant Roots,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Lilium Speciosum,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Lycoris Radiata,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Blooming Ward,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Blooming Grace,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Natures Wrath,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Blooming Blast,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Dionaea Muscipula,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Seed Of Malediction,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Darkness Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Shadow Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Shadow Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Shadow Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Shadow Ward,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Aura Of Darkness,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Dark Impulse,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Shadow Thread,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Whisper Of Darkness,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Shadow Gate,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Shadow Force,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Consuming Darkness,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Hyper Dark Nova,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Thunder Spells,,Scope,Cost,Formula,Variance,Critical,Hit Type,Animation,Requirement,Effects,Additional Notes,Description,,,,,,
+Thunder Burst,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Thunder Invocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Thunder Evocation,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Thunder Conjuration,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Thunder Ward,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Aura Of Lightning,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Static Glint,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Chain Sparks,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Thunder Strike,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Lightning Storm,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Electrical Blast,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Storm Surge,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,
+Eye Of The Storm,,Null,,Null,Null,Null,Null,Null,Null,Null,Null,Null,,,,,,

@@ -1,0 +1,93 @@
+Potions,Effects,,Notes
+Crude Health Potion,Restore Health,Restores 50 Hp,
+Crude Mana Potion,Restore Mana,Restores 50 MP,
+Basic Health Potion,Restore Health,Restores 100 HP,
+Basic Mana Potion,Restore Mana,Restores 100 Mp,
+Health Tonic,Restore Health,Restores 500 HP,
+Mana Tonic,Restore Mana,Restores 100 MP,
+Elixir Of Healing,Restore Health,Restores 1000 HP,
+Elixir Of Magic,Restore Mana,Restores 1000 MP,
+Special Consumable,Rarity,,Notes
+Crystal Glow Berry,Rare ,Permanent Hp up +10 ,Limit 10
+River's Kiss,Rare ,Permanent Mana up +10 ,Limit 10
+Forbidden Fruit,Epic,Atk & Def +1 ,Limit 10
+Bael's Ambrosia,Epic,M.ATK & M.Def +1,Limit 10
+Ethereal Fruit,Epic,Permanent Hp up +100 ,Limit 10
+Fruit of Knowledge,Epic,Permanent Mana up +100 ,Limit 10
+Irresistible Temptation Elixir,Epic,Agi & Luck +1,Limit 10
+Mind-Expanding Elixir,Legendary,All Stats +1 ,Limit 10
+Food,Rarity,Effect,Recipe
+Dried Meat,Common,Restores 20 HP Atk + 1 M.Atk + 1,1x Raw Meat 1x Handful of herbs
+Roasted Meat Skewer,Common,Restores 40 HP and 20 MP Atk +3 M.Atk +3,2x Raw Meat 1x Wooden Stick 1x Handful of Herbs
+Grilled Troll Steak,Common,Restores 80 HP and 40 MP Atk +5 M.Atk + 5,1x Troll Meat 1x Handful of Herbs
+Hearty Chomper Stew,Uncommon,Max HP +50 HP Regeneration +5/s,2x Chomper Filet 1x Dried Meat 1x Exotic Spice Blend
+Serpent Sushi Roll,Uncommon,Agility +10 Evasion +5%,2x Slice of Serpent Fish  1x Sun-Dried Cactus Fruit 1x Exotic Spice Blend
+Troll Barbecue,Uncommon,Strength +15 Attack Speed +5%,2x Troll Meat 1x Roasted Meat Skewer 1x Spicy Demon Pepper
+Desert Lizard Kebab,Uncommon,Fire Resistance +10% Crit chance +5%,2x Desert Lizard Tail 1x Sun-Dried Cactus Fruit 1x Mirage Pepper
+Wyvern Wing Platter,Rare ,Attack +25 Critical Hit Chance +5%,2x Wyvern Meat 1x Thunderbird Drumstick 1x Exotic Spice Blend
+Volcanic Ash Mushroom Risotto,Rare ,Magic Attack +30 MP Regeneration +10/s,2x Volcanic Ash Mushroom 1x Lava Eel 1x Magma Snail Shell
+Frost Giant's Feast,Rare ,Ice Damage +15% Defense +40 for,2x Frozen Game Meat 1x Chilled Wyrm Meat 1x Magical Frost Herb
+Infernal Troll Burger,Rare ,Max HP +500 Fire Damage +20% for,2x Inferno Troll Fat 1x Grilled Troll Steak 1x Spicy Demon Pepper
+Demon Lord's Banquet,Epic,All Stats +20 Dark Damage +25%,2x Demonic Wyrm Meat 1x Spicy Demon Jerky 1x Shalazriel's Shadowflame Essence
+Ambrosia of the Fallen,Epic,HP and MP Regeneration +25/s All Elemental Resistances +15%,2x Ambrosia Residue 1x Blessed Honey 1x Prince's Favorite Wine
+Pandemonium Pepper Steak,Epic,Attack and Magic Attack +50,2x Fury-Spiced Meat 1x Pandemonium Spice 1x Infernal Flame Sauce
+Feast of Seven Sins,Legendary,All Stats +35 Damage to Enemys +20%,1x Seven Deadly Spices 1x Forbidden Fruit Extract 1x Essence of Overconsumption 1x Passionate Desire Shard
+Reality-Bending Ramen,Legendary,10% chance to dodge any attack 5% chance to cast spells without MP cost for 2 hours,1x Gravity-Defying Morsel 1x Infinitely Expanding Snack 1x Timeless Preserves 1x Liquid Solid Fragment
+Cosmic Chef's Masterpiece,Mythical,All Stats +50 10% chance to deal damage of a random element,1x Paradoxical Flame Ice 1x Midas Touch Spice 1x Lies and Half-Truths Brew 1x Ancient Frozen Feast
+Raw Ingriedient,,,
+Chomper Filet,Common,,
+Slice of Serpent Fish,Common,,
+Handfull of herbs,Common,,
+Thunderbird Drumstick,Uncommon,,
+Troll Meat,Common,,
+Mountain Trolls Heart,Uncommon,,
+Wyvern Meat,Uncommon,,
+Spicy Demon Pepper,Uncommon,,
+Bitter Corruption Root,Rare ,,
+Sinful Incense,Rare ,,
+Damned Delicacy,Rare ,,
+Spicy Imp Tail,Uncommon,,
+Demonic Wyrm Meat,Epic,,
+Impaler's Spices,Rare ,,
+Hellish Guard Ration,Rare ,,
+Essence Of Torment,Epic,,
+Shalazriel's Shadowflame Essence,Epic,,
+Lethal Poison Gland,Rare ,,
+Chilled Wyrm Meat,Uncommon,,
+Sun-Dried Cactus Fruit,Common,,
+Desert Lizard Tail,Common,,
+Sand Worm Meat,Common,,
+Mirage Pepper,Uncommon,,
+Sun Python Eggs,Uncommon,,
+Magma Snail Shell,Uncommon,,
+Volcanic Ash Mushroom,Common,,
+Inferno Troll Fat,Uncommon,,
+Lava Eel,Rare ,,
+Smoldering Dragon Meat,Rare ,,
+Mummified Spices,Rare ,,
+Blessed Honey,Rare ,,
+Exotic Spice Blend,Rare ,,
+Prince's Favorite Wine,Epic,,
+Ambrosia Residue,Rare ,,
+Frozen Game Meat,Common,,
+Magical Frost Herb,Rare ,,
+Ancient Frozen Feast,Epic,,
+Spicy Demon Jerky,Uncommon,,
+Bittersweet Fruit,Legendary,,
+Luxurious Demon Wine,Epic,,
+Seven Deadly Spices,Legendary,,
+Gravity-Defying Morsel,Epic,,
+Timeless Preserves,Epic,,
+Infinitely Expanding Snack,Epic,,
+Fury-Spiced Meat,Epic,,
+Midas Touch Spice,Epic,,
+Bottomless Stomach Lining,Legendary,,
+Essence of Overconsumption,Legendary,,
+Effortless Nourishment,Legendary,,
+Passionate Desire Shard,Legendary,,
+Forbidden Fruit Extract,Epic,,
+Lies and Half-Truths Brew,Legendary,,
+Pandemonium Spice,Legendary,,
+Infernal Flame Sauce,Legendary,,
+Paradoxical Flame Ice,Mythical,,
+Liquid Solid Fragment,Mythical,,

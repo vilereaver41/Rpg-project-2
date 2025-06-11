@@ -1,0 +1,33 @@
+LEVEL_RANGE: 21-25
+Earth Elemental,earth_elemental
+  - Earth Spirit Geode
+  - Stone Fragment
+Rock Golem,rock_golem
+  - Golem Shard
+Stone Fur Lynx,stone_fur_lynx
+  - Lynx fang
+  - Lynx Paw
+  - Rock Hide Lynx's Third Eye
+Mountain Troll,mountain_troll
+  - Mountain troll's heart
+  - Troll fur
+  - Troll hide
+  - Troll meat
+Alpine Bandit,alpine_bandit
+  - Pouch of earth dust
+  - Ancient Dagger
+  - Alpine Shawl
+  - Alpine Boots
+Thunder Bird,thunder_bird
+  - Thunder bird Talon
+  - Thunderbird Blood
+  - Thunderbird Feather
+Wyvern,wyvern
+  - Wyvern ascension heart
+  - Wyvern Claw
+  - Wyvern scales
+  - Wyvern Venom
+Twisted Behemoth,twisted_behemoth
+  - Twisted Bone fragment
+  - Behemoths Rage
+  - Eye Of Madness
