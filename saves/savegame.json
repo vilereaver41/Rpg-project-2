@@ -1,0 +1,88 @@
+{
+    "player": {
+        "name": "der",
+        "gender": "Male",
+        "main_stats": {
+            "strength": 5,
+            "vitality": 2,
+            "wisdom": 2,
+            "intelligence": 2,
+            "agility": 2,
+            "dexterity": 2,
+            "luck": 1,
+            "speed": 2
+        },
+        "secondary_stats": {
+            "max_hp": 49,
+            "max_mp": 30,
+            "attack": 11.7,
+            "defense": 4.4,
+            "m_attack": 7,
+            "m_defense": 4,
+            "restorative_magic": 2,
+            "crit_rate": 1.0,
+            "dodge": 1.2,
+            "luck": 1,
+            "discovery": 1
+        },
+        "free_points": 0,
+        "current_hp": 49,
+        "current_mp": 30,
+        "level": 1,
+        "experience": 0,
+        "experience_to_next": 100,
+        "action_timer": 0,
+        "max_action_timer": 1000,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "accessory": null,
+            "shield": null
+        },
+        "status_effects": []
+    },
+    "game_state": {
+        "current_time": "Morning",
+        "day_count": 1,
+        "flags": {
+            "tutorial_completed": false,
+            "first_combat_won": false,
+            "visited_shapira_plains": false,
+            "met_first_npc": false,
+            "crafted_first_item": false,
+            "reached_level_5": false,
+            "reached_level_10": false,
+            "discovered_cave_secrets": false
+        },
+        "counters": {
+            "enemies_defeated": 0,
+            "total_damage_dealt": 0,
+            "total_damage_taken": 0,
+            "items_crafted": 0,
+            "resources_gathered": 0,
+            "zones_discovered": 0,
+            "times_rested": 0,
+            "total_playtime_minutes": 0
+        },
+        "discovered_zones": [
+            "Cave Home"
+        ],
+        "unlocked_recipes": [],
+        "completed_quests": [],
+        "active_quests": [],
+        "world_events": [],
+        "difficulty_multiplier": 1.0,
+        "enemy_spawn_rate": 1.0,
+        "resource_spawn_rate": 1.0
+    },
+    "inventory": {
+        "items": {},
+        "max_inventory_size": 100
+    },
+    "zone_system": {
+        "current_zone": "Cave Home"
+    },
+    "bestiary": {
+        "discovered_enemies": []
+    }
+}
