@@ -1,0 +1,16 @@
+Please Begin to Fix the stat allocation screen now please.  Main stats are Strength, Vitality, Wisdom, 
+Intelligence, Agility, Dexterity,  Secondary stats are Max Hp, Max Mp, Attack, Defense, Magic Attack, Magic Defense, Restorative Magic, Dodge Rate, Critical Rate, Discovery.   
+
+Str increases attack by 1.30 per point. 
+
+Vitality increases Max hp by 9 and defense by 1.20 per point. 
+
+Dexterity increases crit rate by 0.50 and dodge by 0.10 per point. 
+
+Agility increases Dodge by 0.50 per point and attack by 0.10 per point. 
+
+Intelligence increases Max Mp by 5 per point and magic attack by 1 per point. 
+
+Wisdom increase Restorative magic by 1 per point and magic defense by 1 per point. 
+
+Luck increases Discovery by 0.50 per point. 
